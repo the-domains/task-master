@@ -1,0 +1,14 @@
+layout_spectrum: 0.014522304525598884
+typography_spectrum: 0.6558411966543645
+color:
+  brandStrength: 0.763359239557758
+  lightness: 0.4069038114976138
+  saturation: 0.4523778655566275
+  rhythmicContrast: 0.4750192591454834
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+name: Task Master
